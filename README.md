@@ -41,4 +41,21 @@ Los datos presentan problemas reales como:
 
 ## Proceso de análisis
 
+Parte del proyecto fue desarrollado en Python utilizando pandas y para en analisis PowerBI
+
+Etapas principales:
+
+1. Carga de múltiples fuentes de datos
+2. Diagnóstico de calidad de datos
+3. Limpieza y estandarización
+4. Validaciones de negocio
+5. Cruce de tablas (joins)
+6. Construcción de base consolidada
+7. Cálculo de KPIs
+8. Análisis de impacto económico
+9. Visualización de resultados
+
+
+Implementé una tabla calendario en Power BI para habilitar análisis temporal y métricas de inteligencia de tiempo
+
 
