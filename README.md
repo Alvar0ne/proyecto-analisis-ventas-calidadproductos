@@ -58,4 +58,35 @@ Etapas principales:
 
 Implementé una tabla calendario en Power BI para habilitar análisis temporal y métricas de inteligencia de tiempo
 
+## Resultados clave
+
+
+### Productos con mas tasa de devolucion
+
+Algunos productos alcanzan tasas cercanas al 10% de devolución, lo cual es significativamente alto.
+Productos como 
+
+- Parlante NextGen Air V1
+- Tablet HyperLink Air V1
+- Mouse Hyperlink plus
+  
+indicando posibles problemas de calidad, defectos o mala experiencia de uso.
+
+No necesariamente son los productos más vendidos, pero sí los más críticos en términos de desempeño relativo.
+
+
+### Proveedores con mas tasa de falla en sus productos y mas perdida
+
+Existen proveedores con tasas similares (~2.8% – 3.0%), pero con impactos económicos muy distintos
+Proveedores como Tech Supply Hub y Global Electronics presentan: altas tasas de devolución y también altas pérdidas económicas.
+
+En cambio, otros proveedores con menor tasa no necesariamente generan menor impacto
+
+
+
+
+
+
+
+
 
