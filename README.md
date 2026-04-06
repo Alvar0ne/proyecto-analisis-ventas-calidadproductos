@@ -13,6 +13,7 @@ Esto dificulta responder preguntas clave como:
 
 El objetivo de este proyecto es transformar datos desordenados en información accionable para la toma de decisiones.
 
+---
 
 ## Fuentes de datos
 
@@ -27,7 +28,7 @@ Se integraron múltiples archivos de diferentes fuentes:
 - Fuente 3: Catálogo maestro de productos
   Archivo JSON o tabla SQL "catalogo_tecnologia_500_v2.json"
 
-
+---
 
 Los datos presentan problemas reales como:
 
@@ -38,6 +39,7 @@ Los datos presentan problemas reales como:
 - Registros duplicados
 - Valores faltantes
 
+---
 
 ## Proceso de análisis
 
@@ -58,6 +60,8 @@ Etapas principales:
 
 Implementé una tabla calendario en Power BI para habilitar análisis temporal y métricas de inteligencia de tiempo
 
+---
+
 ## Resultados clave
 
 
@@ -75,6 +79,8 @@ indicando posibles problemas de calidad, defectos o mala experiencia de uso.
 No necesariamente son los productos más vendidos, pero sí los más críticos en términos de desempeño relativo.
 
 
+---
+
 
 ### Proveedores con mas tasa de falla en sus productos y mas perdida
 
@@ -83,7 +89,7 @@ Proveedores como Tech Supply Hub y Global Electronics presentan: altas tasas de 
 
 En cambio, otros proveedores con menor tasa no necesariamente generan menor impacto
 
-
+---
 
 ### Utilidad neta por proveedor
 
@@ -94,13 +100,13 @@ Alta utilidad no siempre significa mejor proveedor puede deberse a:
 - Mejores márgenes
 - Menor tasa de fallas
 
-
+---
 
 ### Top 5 productos mas vendidos e ingresos netos
 
 Se identificó que no todos los productos con alto volumen de ventas generan el mismo nivel de ingresos, lo que evidencia diferencias en precios o posicionamiento dentro del portafolio. 
 
-
+---
 
 ## Visualizaciones
 
