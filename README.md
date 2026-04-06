@@ -28,7 +28,7 @@ Se integraron múltiples archivos de diferentes fuentes:
 - Fuente 3: Catálogo maestro de productos
   Archivo JSON o tabla SQL "catalogo_tecnologia_500_v2.json"
 
----
+
 
 Los datos presentan problemas reales como:
 
