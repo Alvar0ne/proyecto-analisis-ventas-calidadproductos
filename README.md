@@ -104,7 +104,7 @@ Se identificó que no todos los productos con alto volumen de ventas generan el 
 
 ## Visualizaciones
 
-![Tasa fallas por proveedor](images/Tasa de falla por proveedor y perdida.png)
+! [Tasa fallas por proveedor](images/Tasa_de_falla.png)
 
 
 
