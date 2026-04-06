@@ -104,7 +104,13 @@ Se identificó que no todos los productos con alto volumen de ventas generan el 
 
 ## Visualizaciones
 
-! [Tasa fallas por proveedor](images/Tasa_de_falla.png)
+![Tasa fallas por proveedor](images/Tasa_de_falla.png)
+
+![Top 10 productos con mas devoluciones](images/Top_10_productos.png)
+
+![Utilidad neta por proveedor](images/Utilidad_neta_proveedor.png)
+
+
 
 
 
