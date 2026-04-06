@@ -75,6 +75,7 @@ indicando posibles problemas de calidad, defectos o mala experiencia de uso.
 No necesariamente son los productos más vendidos, pero sí los más críticos en términos de desempeño relativo.
 
 
+
 ### Proveedores con mas tasa de falla en sus productos y mas perdida
 
 Existen proveedores con tasas similares (~2.8% – 3.0%), pero con impactos económicos muy distintos
@@ -84,8 +85,24 @@ En cambio, otros proveedores con menor tasa no necesariamente generan menor impa
 
 
 
+### Utilidad neta por proveedor
 
 
+Aunque los proveedores presentan niveles de utilidad similares, algunos destacan por generar mayor rentabilidad, lo que puede estar asociado a mejores márgenes o menor impacto de devoluciones.
+Alta utilidad no siempre significa mejor proveedor puede deberse a:
+- Mayor volumen de ventas
+- Mejores márgenes
+- Menor tasa de fallas
+
+
+
+### Top 5 productos mas vendidos e ingresos netos
+
+Se identificó que no todos los productos con alto volumen de ventas generan el mismo nivel de ingresos, lo que evidencia diferencias en precios o posicionamiento dentro del portafolio. 
+
+
+
+## Visualizaciones
 
 
 
