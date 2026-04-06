@@ -117,6 +117,60 @@ Se identificó que no todos los productos con alto volumen de ventas generan el 
 ![Utilidad neta por proveedor](images/Utilidad_neta_proveedor.png)
 
 
+---
+
+## Insights estratégicos
+
+- Las devoluciones generan una pérdida significativa al considerar no solo el costo de falla, sino también la utilidad no realizada.
+- 
+- 
+- 
+- 
+
+---
+
+## Recomendaciones
+
+- Auditar procesos de responsables con mayor tasa de falla
+- 
+- Implementar validaciones en captura de datos
+- 
+- 
+
+---
+
+## Tecnologías utilizadas
+
+- Python
+- 
+- 
+- Google Colab
+
+---
+
+## Estructura del proyecto
+
+- datos/: archivos utilizados
+- notebooks/: análisis en Python
+- README.md: documentación del proyecto
+
+---
+
+## Ejecución
+
+El análisis fue desarrollado en Google Colab.
+
+El notebook se encuentra disponible en la carpeta `/notebooks`.
+
+---
+
+## Conclusión
+
+Este proyecto demuestra cómo transformar múltiples fuentes de datos desordenadas en información accionable, identificando no solo dónde ocurren los problemas, sino también cuáles generan mayor impacto económico.
+
+El valor del análisis no está en los gráficos, sino en la capacidad de conectar datos con decisiones de negocio.
+
+
 
 
 
