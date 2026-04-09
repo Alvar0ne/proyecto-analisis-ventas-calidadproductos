@@ -122,28 +122,27 @@ Se identificó que no todos los productos con alto volumen de ventas generan el 
 ## Insights estratégicos
 
 - Las devoluciones generan una pérdida significativa al considerar no solo el costo de falla, sino también la utilidad no realizada.
-- 
-- 
-- 
-- 
+- No siempre el producto que mas se venda es el que mas utilidad genera
+- No el prodcuto que aparezca con mas fallas es el mas critico para el negocio, depende del total de ventas y asi poder sacar la tasa de falla.
+
 
 ---
 
 ## Recomendaciones
 
-- Auditar procesos de responsables con mayor tasa de falla
-- 
+- Renegociar con proveedores que tengan mas tasa de fala en sus productos
+- Eliminar productos del catalogo sin venta
 - Implementar validaciones en captura de datos
-- 
-- 
+- Apostar mas por productos mejores evaluados, ya sea por venta, utilidad y menos tasa de falla
+
 
 ---
 
-## Tecnologías utilizadas
+## Herramientas y Tecnologías utilizadas
 
 - Python
-- 
-- 
+- Excel
+- Power BI
 - Google Colab
 
 ---
@@ -158,7 +157,8 @@ Se identificó que no todos los productos con alto volumen de ventas generan el 
 
 ## Ejecución
 
-El análisis fue desarrollado en Google Colab.
+La limpieza de datos fue desarrollado en Python con Google Colab.
+El analisis posterior fue realizado en PowerBI
 
 El notebook se encuentra disponible en la carpeta `/notebooks`.
 
