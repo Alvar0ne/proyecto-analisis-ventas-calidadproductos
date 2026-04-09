@@ -1,0 +1,4502 @@
+[
+  {
+    "sku_master":"SKU00001",
+    "nombre_oficial":"PC PixelCore SE",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"PixelCore",
+    "costo_unitario":292.32,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00002",
+    "nombre_oficial":"PC PixelCore SE",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"PixelCore",
+    "costo_unitario":307.42,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00003",
+    "nombre_oficial":"Cable NovaTech",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"NovaTech",
+    "costo_unitario":308.12,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00004",
+    "nombre_oficial":"Cable NovaTech",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"NovaTech",
+    "costo_unitario":317.81,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00005",
+    "nombre_oficial":"Cable NovaTech",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"NovaTech",
+    "costo_unitario":322.77,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00006",
+    "nombre_oficial":"Parlante ByteWave Air",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"ByteWave",
+    "costo_unitario":240.27,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00007",
+    "nombre_oficial":"Parlante ByteWave Max",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"ByteWave",
+    "costo_unitario":243.67,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00008",
+    "nombre_oficial":"Parlante ByteWave Max",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"ByteWave",
+    "costo_unitario":241.44,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00009",
+    "nombre_oficial":"Parlante ByteWave Max",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"ByteWave",
+    "costo_unitario":228.11,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00010",
+    "nombre_oficial":"Teclado NovaTech",
+    "categoria_master":"Computacion",
+    "subcategoria":"Teclado",
+    "marca":"NovaTech",
+    "costo_unitario":244.08,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00011",
+    "nombre_oficial":"Teclado NovaTech",
+    "categoria_master":"Computacion",
+    "subcategoria":"Teclado",
+    "marca":"NovaTech",
+    "costo_unitario":232.47,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00012",
+    "nombre_oficial":"Teclado NovaTech",
+    "categoria_master":"Computacion",
+    "subcategoria":"Teclado",
+    "marca":"NovaTech",
+    "costo_unitario":259.1,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00013",
+    "nombre_oficial":"Cargador PixelCore",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cargador",
+    "marca":"PixelCore",
+    "costo_unitario":396.35,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00014",
+    "nombre_oficial":"Cargador PixelCore",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cargador",
+    "marca":"PixelCore",
+    "costo_unitario":372.28,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00015",
+    "nombre_oficial":"Cargador PixelCore",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cargador",
+    "marca":"PixelCore",
+    "costo_unitario":386.3,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00016",
+    "nombre_oficial":"PC QuantumGear SE",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"QuantumGear",
+    "costo_unitario":251.0,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00017",
+    "nombre_oficial":"Mouse NovaTech",
+    "categoria_master":"Computacion",
+    "subcategoria":"Mouse",
+    "marca":"NovaTech",
+    "costo_unitario":138.66,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00018",
+    "nombre_oficial":"Monitor QuantumGear Lite",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"QuantumGear",
+    "costo_unitario":191.79,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00019",
+    "nombre_oficial":"Monitor QuantumGear Lite",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"QuantumGear",
+    "costo_unitario":209.61,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00020",
+    "nombre_oficial":"Parlante HyperLink Air",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"HyperLink",
+    "costo_unitario":357.49,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00021",
+    "nombre_oficial":"Parlante HyperLink Air",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"HyperLink",
+    "costo_unitario":354.47,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00022",
+    "nombre_oficial":"Parlante HyperLink Air",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"HyperLink",
+    "costo_unitario":394.09,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00023",
+    "nombre_oficial":"Monitor ElectroMax SE",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"ElectroMax",
+    "costo_unitario":38.92,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00024",
+    "nombre_oficial":"Monitor ElectroMax SE",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"ElectroMax",
+    "costo_unitario":38.28,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00025",
+    "nombre_oficial":"Audífonos TechPro",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"TechPro",
+    "costo_unitario":252.89,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00026",
+    "nombre_oficial":"Laptop HyperLink Air",
+    "categoria_master":"Computacion",
+    "subcategoria":"Laptop",
+    "marca":"HyperLink",
+    "costo_unitario":102.72,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00027",
+    "nombre_oficial":"Audífonos PixelCore SE",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"PixelCore",
+    "costo_unitario":257.79,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00028",
+    "nombre_oficial":"Cable PixelCore",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"PixelCore",
+    "costo_unitario":337.9,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00029",
+    "nombre_oficial":"Tablet QuantumGear Pro",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"QuantumGear",
+    "costo_unitario":237.42,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00030",
+    "nombre_oficial":"Tablet QuantumGear Pro",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"QuantumGear",
+    "costo_unitario":243.62,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00031",
+    "nombre_oficial":"Tablet QuantumGear Pro",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"QuantumGear",
+    "costo_unitario":254.56,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00032",
+    "nombre_oficial":"Smartphone NovaTech",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartphone",
+    "marca":"NovaTech",
+    "costo_unitario":341.99,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00033",
+    "nombre_oficial":"Smartphone NovaTech",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartphone",
+    "marca":"NovaTech",
+    "costo_unitario":323.96,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00034",
+    "nombre_oficial":"Teclado QuantumGear Max",
+    "categoria_master":"Computacion",
+    "subcategoria":"Teclado",
+    "marca":"QuantumGear",
+    "costo_unitario":259.32,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00035",
+    "nombre_oficial":"Monitor QuantumGear Plus",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"QuantumGear",
+    "costo_unitario":201.67,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00036",
+    "nombre_oficial":"Monitor QuantumGear Plus",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"QuantumGear",
+    "costo_unitario":217.35,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00037",
+    "nombre_oficial":"Tablet NovaTech Lite",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"NovaTech",
+    "costo_unitario":264.83,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00038",
+    "nombre_oficial":"Cargador NextGen",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cargador",
+    "marca":"NextGen",
+    "costo_unitario":128.73,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00039",
+    "nombre_oficial":"Cargador NextGen",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cargador",
+    "marca":"NextGen",
+    "costo_unitario":124.64,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00040",
+    "nombre_oficial":"Parlante ElectroMax Air",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"ElectroMax",
+    "costo_unitario":303.55,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00041",
+    "nombre_oficial":"Parlante ElectroMax Air",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"ElectroMax",
+    "costo_unitario":321.55,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00042",
+    "nombre_oficial":"Cargador ByteWave",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cargador",
+    "marca":"ByteWave",
+    "costo_unitario":430.18,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00043",
+    "nombre_oficial":"Tablet NextGen",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"NextGen",
+    "costo_unitario":354.44,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00044",
+    "nombre_oficial":"Smartwatch NovaTech",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartwatch",
+    "marca":"NovaTech",
+    "costo_unitario":313.86,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00045",
+    "nombre_oficial":"Smartwatch NovaTech",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartwatch",
+    "marca":"NovaTech",
+    "costo_unitario":293.4,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00046",
+    "nombre_oficial":"Teclado NextGen",
+    "categoria_master":"Computacion",
+    "subcategoria":"Teclado",
+    "marca":"NextGen",
+    "costo_unitario":187.62,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00047",
+    "nombre_oficial":"Teclado NextGen",
+    "categoria_master":"Computacion",
+    "subcategoria":"Teclado",
+    "marca":"NextGen",
+    "costo_unitario":202.21,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00048",
+    "nombre_oficial":"Teclado NextGen",
+    "categoria_master":"Computacion",
+    "subcategoria":"Teclado",
+    "marca":"NextGen",
+    "costo_unitario":181.14,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00049",
+    "nombre_oficial":"Smartphone NextGen Air",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartphone",
+    "marca":"NextGen",
+    "costo_unitario":333.09,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00050",
+    "nombre_oficial":"Mouse QuantumGear Mini",
+    "categoria_master":"Computacion",
+    "subcategoria":"Mouse",
+    "marca":"QuantumGear",
+    "costo_unitario":377.13,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00051",
+    "nombre_oficial":"Power Bank ElectroMax",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"ElectroMax",
+    "costo_unitario":283.23,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00052",
+    "nombre_oficial":"Power Bank ElectroMax",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"ElectroMax",
+    "costo_unitario":278.76,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00053",
+    "nombre_oficial":"Power Bank ElectroMax",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"ElectroMax",
+    "costo_unitario":288.89,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00054",
+    "nombre_oficial":"Cargador NovaTech",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cargador",
+    "marca":"NovaTech",
+    "costo_unitario":270.11,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00055",
+    "nombre_oficial":"Cargador NovaTech",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cargador",
+    "marca":"NovaTech",
+    "costo_unitario":248.62,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00056",
+    "nombre_oficial":"Cargador NovaTech",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cargador",
+    "marca":"NovaTech",
+    "costo_unitario":287.02,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00057",
+    "nombre_oficial":"Cable QuantumGear Max",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"QuantumGear",
+    "costo_unitario":170.34,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00058",
+    "nombre_oficial":"Cable HyperLink",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"HyperLink",
+    "costo_unitario":296.07,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00059",
+    "nombre_oficial":"Smartwatch PixelCore",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartwatch",
+    "marca":"PixelCore",
+    "costo_unitario":479.23,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00060",
+    "nombre_oficial":"Audífonos QuantumGear Plus",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"QuantumGear",
+    "costo_unitario":218.34,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00061",
+    "nombre_oficial":"Smartwatch TechPro",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartwatch",
+    "marca":"TechPro",
+    "costo_unitario":194.96,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00062",
+    "nombre_oficial":"Smartwatch TechPro",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartwatch",
+    "marca":"TechPro",
+    "costo_unitario":194.45,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00063",
+    "nombre_oficial":"Monitor PixelCore Max",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"PixelCore",
+    "costo_unitario":183.72,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00064",
+    "nombre_oficial":"Monitor PixelCore Max",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"PixelCore",
+    "costo_unitario":171.91,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00065",
+    "nombre_oficial":"Mouse QuantumGear SE",
+    "categoria_master":"Computacion",
+    "subcategoria":"Mouse",
+    "marca":"QuantumGear",
+    "costo_unitario":384.46,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00066",
+    "nombre_oficial":"Mouse QuantumGear SE",
+    "categoria_master":"Computacion",
+    "subcategoria":"Mouse",
+    "marca":"QuantumGear",
+    "costo_unitario":359.73,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00067",
+    "nombre_oficial":"Cargador ElectroMax",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cargador",
+    "marca":"ElectroMax",
+    "costo_unitario":361.06,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00068",
+    "nombre_oficial":"Power Bank QuantumGear",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"QuantumGear",
+    "costo_unitario":295.09,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00069",
+    "nombre_oficial":"Power Bank QuantumGear",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"QuantumGear",
+    "costo_unitario":294.92,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00070",
+    "nombre_oficial":"Audífonos HyperLink",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"HyperLink",
+    "costo_unitario":202.99,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00071",
+    "nombre_oficial":"Cargador QuantumGear",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cargador",
+    "marca":"QuantumGear",
+    "costo_unitario":325.32,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00072",
+    "nombre_oficial":"Laptop TechPro",
+    "categoria_master":"Computacion",
+    "subcategoria":"Laptop",
+    "marca":"TechPro",
+    "costo_unitario":153.67,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00073",
+    "nombre_oficial":"Laptop TechPro",
+    "categoria_master":"Computacion",
+    "subcategoria":"Laptop",
+    "marca":"TechPro",
+    "costo_unitario":145.69,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00074",
+    "nombre_oficial":"Teclado PixelCore",
+    "categoria_master":"Computacion",
+    "subcategoria":"Teclado",
+    "marca":"PixelCore",
+    "costo_unitario":335.64,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00075",
+    "nombre_oficial":"Teclado TechPro Max",
+    "categoria_master":"Computacion",
+    "subcategoria":"Teclado",
+    "marca":"TechPro",
+    "costo_unitario":276.49,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00076",
+    "nombre_oficial":"Teclado TechPro Max",
+    "categoria_master":"Computacion",
+    "subcategoria":"Teclado",
+    "marca":"TechPro",
+    "costo_unitario":264.62,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00077",
+    "nombre_oficial":"Cable NextGen Air",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"NextGen",
+    "costo_unitario":183.84,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00078",
+    "nombre_oficial":"Cable NextGen Air",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"NextGen",
+    "costo_unitario":185.73,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00079",
+    "nombre_oficial":"Audífonos QuantumGear Mini",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"QuantumGear",
+    "costo_unitario":203.16,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00080",
+    "nombre_oficial":"Audífonos QuantumGear Mini",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"QuantumGear",
+    "costo_unitario":233.89,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00081",
+    "nombre_oficial":"Smartphone ElectroMax Mini",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartphone",
+    "marca":"ElectroMax",
+    "costo_unitario":308.15,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00082",
+    "nombre_oficial":"Smartphone ElectroMax Mini",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartphone",
+    "marca":"ElectroMax",
+    "costo_unitario":336.56,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00083",
+    "nombre_oficial":"Smartwatch QuantumGear",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartwatch",
+    "marca":"QuantumGear",
+    "costo_unitario":174.39,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00084",
+    "nombre_oficial":"Smartwatch QuantumGear",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartwatch",
+    "marca":"QuantumGear",
+    "costo_unitario":174.53,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00085",
+    "nombre_oficial":"PC PixelCore Air",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"PixelCore",
+    "costo_unitario":322.25,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00086",
+    "nombre_oficial":"PC PixelCore Air",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"PixelCore",
+    "costo_unitario":300.39,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00087",
+    "nombre_oficial":"PC PixelCore Air",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"PixelCore",
+    "costo_unitario":301.9,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00088",
+    "nombre_oficial":"Smartphone NextGen Mini",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartphone",
+    "marca":"NextGen",
+    "costo_unitario":330.05,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00089",
+    "nombre_oficial":"Smartphone NextGen Mini",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartphone",
+    "marca":"NextGen",
+    "costo_unitario":356.2,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00090",
+    "nombre_oficial":"Smartphone NextGen Mini",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartphone",
+    "marca":"NextGen",
+    "costo_unitario":355.96,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00091",
+    "nombre_oficial":"Mouse PixelCore",
+    "categoria_master":"Computacion",
+    "subcategoria":"Mouse",
+    "marca":"PixelCore",
+    "costo_unitario":321.88,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00092",
+    "nombre_oficial":"Mouse PixelCore",
+    "categoria_master":"Computacion",
+    "subcategoria":"Mouse",
+    "marca":"PixelCore",
+    "costo_unitario":325.96,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00093",
+    "nombre_oficial":"Mouse PixelCore",
+    "categoria_master":"Computacion",
+    "subcategoria":"Mouse",
+    "marca":"PixelCore",
+    "costo_unitario":330.68,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00094",
+    "nombre_oficial":"Tablet TechPro SE",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"TechPro",
+    "costo_unitario":177.24,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00095",
+    "nombre_oficial":"Tablet TechPro SE",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"TechPro",
+    "costo_unitario":200.91,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00096",
+    "nombre_oficial":"Tablet TechPro SE",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"TechPro",
+    "costo_unitario":174.43,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00097",
+    "nombre_oficial":"Smartphone ElectroMax Plus",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartphone",
+    "marca":"ElectroMax",
+    "costo_unitario":314.14,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00098",
+    "nombre_oficial":"Smartphone ElectroMax Plus",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartphone",
+    "marca":"ElectroMax",
+    "costo_unitario":342.22,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00099",
+    "nombre_oficial":"Smartphone ElectroMax Plus",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartphone",
+    "marca":"ElectroMax",
+    "costo_unitario":318.56,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00100",
+    "nombre_oficial":"Smartphone NextGen Lite",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartphone",
+    "marca":"NextGen",
+    "costo_unitario":334.45,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00101",
+    "nombre_oficial":"Smartphone NextGen Lite",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartphone",
+    "marca":"NextGen",
+    "costo_unitario":350.71,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00102",
+    "nombre_oficial":"Audífonos ByteWave",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"ByteWave",
+    "costo_unitario":189.87,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00103",
+    "nombre_oficial":"Mouse HyperLink Plus",
+    "categoria_master":"Computacion",
+    "subcategoria":"Mouse",
+    "marca":"HyperLink",
+    "costo_unitario":132.17,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00104",
+    "nombre_oficial":"PC ByteWave",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"ByteWave",
+    "costo_unitario":319.82,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00105",
+    "nombre_oficial":"PC ByteWave",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"ByteWave",
+    "costo_unitario":299.53,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00106",
+    "nombre_oficial":"Cargador HyperLink",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cargador",
+    "marca":"HyperLink",
+    "costo_unitario":149.7,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00107",
+    "nombre_oficial":"Laptop PixelCore",
+    "categoria_master":"Computacion",
+    "subcategoria":"Laptop",
+    "marca":"PixelCore",
+    "costo_unitario":251.28,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00108",
+    "nombre_oficial":"Monitor ElectroMax Plus",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"ElectroMax",
+    "costo_unitario":36.09,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00109",
+    "nombre_oficial":"Monitor ElectroMax Plus",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"ElectroMax",
+    "costo_unitario":36.55,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00110",
+    "nombre_oficial":"Monitor ElectroMax Plus",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"ElectroMax",
+    "costo_unitario":38.58,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00111",
+    "nombre_oficial":"Mouse TechPro",
+    "categoria_master":"Computacion",
+    "subcategoria":"Mouse",
+    "marca":"TechPro",
+    "costo_unitario":136.53,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00112",
+    "nombre_oficial":"Mouse TechPro",
+    "categoria_master":"Computacion",
+    "subcategoria":"Mouse",
+    "marca":"TechPro",
+    "costo_unitario":142.92,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00113",
+    "nombre_oficial":"Mouse TechPro",
+    "categoria_master":"Computacion",
+    "subcategoria":"Mouse",
+    "marca":"TechPro",
+    "costo_unitario":147.8,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00114",
+    "nombre_oficial":"Tablet NovaTech Air",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"NovaTech",
+    "costo_unitario":294.76,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00115",
+    "nombre_oficial":"Tablet NovaTech Air",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"NovaTech",
+    "costo_unitario":266.43,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00116",
+    "nombre_oficial":"Tablet NovaTech Air",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"NovaTech",
+    "costo_unitario":272.93,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00117",
+    "nombre_oficial":"Parlante QuantumGear Mini",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"QuantumGear",
+    "costo_unitario":202.67,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00118",
+    "nombre_oficial":"Cable TechPro Pro",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"TechPro",
+    "costo_unitario":350.24,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00119",
+    "nombre_oficial":"Cable TechPro Pro",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"TechPro",
+    "costo_unitario":343.76,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00120",
+    "nombre_oficial":"Cable TechPro Pro",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"TechPro",
+    "costo_unitario":325.09,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00121",
+    "nombre_oficial":"Cable TechPro Lite",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"TechPro",
+    "costo_unitario":344.78,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00122",
+    "nombre_oficial":"Cable TechPro Lite",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"TechPro",
+    "costo_unitario":319.56,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00123",
+    "nombre_oficial":"Cable TechPro Mini",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"TechPro",
+    "costo_unitario":335.43,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00124",
+    "nombre_oficial":"Power Bank ByteWave Pro",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"ByteWave",
+    "costo_unitario":267.35,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00125",
+    "nombre_oficial":"Laptop NovaTech",
+    "categoria_master":"Computacion",
+    "subcategoria":"Laptop",
+    "marca":"NovaTech",
+    "costo_unitario":302.3,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00126",
+    "nombre_oficial":"Laptop NovaTech",
+    "categoria_master":"Computacion",
+    "subcategoria":"Laptop",
+    "marca":"NovaTech",
+    "costo_unitario":295.37,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00127",
+    "nombre_oficial":"Laptop NovaTech",
+    "categoria_master":"Computacion",
+    "subcategoria":"Laptop",
+    "marca":"NovaTech",
+    "costo_unitario":318.6,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00128",
+    "nombre_oficial":"Teclado QuantumGear Plus",
+    "categoria_master":"Computacion",
+    "subcategoria":"Teclado",
+    "marca":"QuantumGear",
+    "costo_unitario":278.08,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00129",
+    "nombre_oficial":"Teclado QuantumGear Plus",
+    "categoria_master":"Computacion",
+    "subcategoria":"Teclado",
+    "marca":"QuantumGear",
+    "costo_unitario":275.54,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00130",
+    "nombre_oficial":"Smartwatch ByteWave",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartwatch",
+    "marca":"ByteWave",
+    "costo_unitario":138.73,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00131",
+    "nombre_oficial":"Smartwatch ByteWave",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartwatch",
+    "marca":"ByteWave",
+    "costo_unitario":147.18,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00132",
+    "nombre_oficial":"Smartwatch ByteWave",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartwatch",
+    "marca":"ByteWave",
+    "costo_unitario":139.97,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00133",
+    "nombre_oficial":"Monitor HyperLink",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"HyperLink",
+    "costo_unitario":102.54,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00134",
+    "nombre_oficial":"Monitor HyperLink",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"HyperLink",
+    "costo_unitario":103.79,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00135",
+    "nombre_oficial":"Monitor HyperLink",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"HyperLink",
+    "costo_unitario":95.22,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00136",
+    "nombre_oficial":"Smartphone HyperLink",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartphone",
+    "marca":"HyperLink",
+    "costo_unitario":326.07,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00137",
+    "nombre_oficial":"Teclado ByteWave",
+    "categoria_master":"Computacion",
+    "subcategoria":"Teclado",
+    "marca":"ByteWave",
+    "costo_unitario":89.68,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00138",
+    "nombre_oficial":"PC NovaTech",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"NovaTech",
+    "costo_unitario":218.53,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00139",
+    "nombre_oficial":"PC NovaTech",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"NovaTech",
+    "costo_unitario":224.52,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00140",
+    "nombre_oficial":"PC NovaTech",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"NovaTech",
+    "costo_unitario":202.99,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00141",
+    "nombre_oficial":"Cargador TechPro",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cargador",
+    "marca":"TechPro",
+    "costo_unitario":166.87,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00142",
+    "nombre_oficial":"Parlante QuantumGear Lite",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"QuantumGear",
+    "costo_unitario":208.63,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00143",
+    "nombre_oficial":"Power Bank PixelCore SE",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"PixelCore",
+    "costo_unitario":230.4,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00144",
+    "nombre_oficial":"Mouse HyperLink Max",
+    "categoria_master":"Computacion",
+    "subcategoria":"Mouse",
+    "marca":"HyperLink",
+    "costo_unitario":132.5,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00145",
+    "nombre_oficial":"Mouse HyperLink Max",
+    "categoria_master":"Computacion",
+    "subcategoria":"Mouse",
+    "marca":"HyperLink",
+    "costo_unitario":123.05,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00146",
+    "nombre_oficial":"Mouse HyperLink Max",
+    "categoria_master":"Computacion",
+    "subcategoria":"Mouse",
+    "marca":"HyperLink",
+    "costo_unitario":131.98,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00147",
+    "nombre_oficial":"Parlante HyperLink SE",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"HyperLink",
+    "costo_unitario":346.6,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00148",
+    "nombre_oficial":"Parlante TechPro",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"TechPro",
+    "costo_unitario":380.8,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00149",
+    "nombre_oficial":"Parlante TechPro",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"TechPro",
+    "costo_unitario":366.95,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00150",
+    "nombre_oficial":"Parlante TechPro",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"TechPro",
+    "costo_unitario":346.62,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00151",
+    "nombre_oficial":"Monitor PixelCore Mini",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"PixelCore",
+    "costo_unitario":176.73,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00152",
+    "nombre_oficial":"Audífonos NextGen",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"NextGen",
+    "costo_unitario":173.12,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00153",
+    "nombre_oficial":"Audífonos NextGen",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"NextGen",
+    "costo_unitario":157.4,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00154",
+    "nombre_oficial":"Power Bank ByteWave Plus",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"ByteWave",
+    "costo_unitario":294.7,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00155",
+    "nombre_oficial":"Tablet TechPro Pro",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"TechPro",
+    "costo_unitario":191.24,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00156",
+    "nombre_oficial":"Tablet TechPro Pro",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"TechPro",
+    "costo_unitario":184.67,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00157",
+    "nombre_oficial":"Tablet TechPro Pro",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"TechPro",
+    "costo_unitario":194.22,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00158",
+    "nombre_oficial":"Monitor NovaTech Mini",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"NovaTech",
+    "costo_unitario":309.28,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00159",
+    "nombre_oficial":"Laptop ElectroMax",
+    "categoria_master":"Computacion",
+    "subcategoria":"Laptop",
+    "marca":"ElectroMax",
+    "costo_unitario":113.93,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00160",
+    "nombre_oficial":"Laptop ElectroMax",
+    "categoria_master":"Computacion",
+    "subcategoria":"Laptop",
+    "marca":"ElectroMax",
+    "costo_unitario":126.77,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00161",
+    "nombre_oficial":"Laptop ElectroMax",
+    "categoria_master":"Computacion",
+    "subcategoria":"Laptop",
+    "marca":"ElectroMax",
+    "costo_unitario":119.64,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00162",
+    "nombre_oficial":"Parlante ByteWave Mini",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"ByteWave",
+    "costo_unitario":242.05,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00163",
+    "nombre_oficial":"Parlante ByteWave Mini",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"ByteWave",
+    "costo_unitario":238.01,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00164",
+    "nombre_oficial":"Parlante ByteWave Mini",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"ByteWave",
+    "costo_unitario":241.08,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00165",
+    "nombre_oficial":"PC QuantumGear Air",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"QuantumGear",
+    "costo_unitario":253.13,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00166",
+    "nombre_oficial":"Laptop ByteWave",
+    "categoria_master":"Computacion",
+    "subcategoria":"Laptop",
+    "marca":"ByteWave",
+    "costo_unitario":222.89,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00167",
+    "nombre_oficial":"Laptop ByteWave",
+    "categoria_master":"Computacion",
+    "subcategoria":"Laptop",
+    "marca":"ByteWave",
+    "costo_unitario":228.08,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00168",
+    "nombre_oficial":"Laptop ByteWave",
+    "categoria_master":"Computacion",
+    "subcategoria":"Laptop",
+    "marca":"ByteWave",
+    "costo_unitario":219.65,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00169",
+    "nombre_oficial":"Smartphone PixelCore Pro",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartphone",
+    "marca":"PixelCore",
+    "costo_unitario":185.72,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00170",
+    "nombre_oficial":"Audífonos PixelCore Lite",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"PixelCore",
+    "costo_unitario":256.7,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00171",
+    "nombre_oficial":"Audífonos PixelCore Lite",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"PixelCore",
+    "costo_unitario":237.21,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00172",
+    "nombre_oficial":"Monitor ByteWave",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"ByteWave",
+    "costo_unitario":270.83,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00173",
+    "nombre_oficial":"Monitor ByteWave",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"ByteWave",
+    "costo_unitario":258.63,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00174",
+    "nombre_oficial":"Monitor ByteWave",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"ByteWave",
+    "costo_unitario":273.84,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00175",
+    "nombre_oficial":"PC ElectroMax",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"ElectroMax",
+    "costo_unitario":338.16,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00176",
+    "nombre_oficial":"PC ElectroMax",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"ElectroMax",
+    "costo_unitario":314.01,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00177",
+    "nombre_oficial":"PC ElectroMax",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"ElectroMax",
+    "costo_unitario":349.87,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00178",
+    "nombre_oficial":"Power Bank NovaTech",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"NovaTech",
+    "costo_unitario":394.19,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00179",
+    "nombre_oficial":"Power Bank NovaTech",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"NovaTech",
+    "costo_unitario":379.21,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00180",
+    "nombre_oficial":"Power Bank NovaTech",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"NovaTech",
+    "costo_unitario":387.34,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00181",
+    "nombre_oficial":"Smartwatch NextGen",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartwatch",
+    "marca":"NextGen",
+    "costo_unitario":418.78,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00182",
+    "nombre_oficial":"Smartwatch NextGen",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartwatch",
+    "marca":"NextGen",
+    "costo_unitario":425.8,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00183",
+    "nombre_oficial":"Smartwatch NextGen",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartwatch",
+    "marca":"NextGen",
+    "costo_unitario":407.05,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00184",
+    "nombre_oficial":"Parlante ElectroMax SE",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"ElectroMax",
+    "costo_unitario":336.7,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00185",
+    "nombre_oficial":"Parlante ElectroMax SE",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"ElectroMax",
+    "costo_unitario":311.93,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00186",
+    "nombre_oficial":"Tablet PixelCore",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"PixelCore",
+    "costo_unitario":359.66,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00187",
+    "nombre_oficial":"Tablet PixelCore",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"PixelCore",
+    "costo_unitario":382.56,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00188",
+    "nombre_oficial":"Tablet QuantumGear Lite",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"QuantumGear",
+    "costo_unitario":242.92,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00189",
+    "nombre_oficial":"Parlante NextGen Max",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"NextGen",
+    "costo_unitario":271.85,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00190",
+    "nombre_oficial":"Parlante NextGen Max",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"NextGen",
+    "costo_unitario":277.16,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00191",
+    "nombre_oficial":"Parlante NextGen Max",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"NextGen",
+    "costo_unitario":284.61,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00192",
+    "nombre_oficial":"Audífonos PixelCore Air",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"PixelCore",
+    "costo_unitario":247.21,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00193",
+    "nombre_oficial":"Audífonos PixelCore Air",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"PixelCore",
+    "costo_unitario":240.94,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00194",
+    "nombre_oficial":"Audífonos PixelCore Air",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"PixelCore",
+    "costo_unitario":233.41,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00195",
+    "nombre_oficial":"Cable ByteWave",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"ByteWave",
+    "costo_unitario":225.44,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00196",
+    "nombre_oficial":"Cable ByteWave",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"ByteWave",
+    "costo_unitario":212.64,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00197",
+    "nombre_oficial":"Smartwatch HyperLink",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartwatch",
+    "marca":"HyperLink",
+    "costo_unitario":234.83,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00198",
+    "nombre_oficial":"Tablet ByteWave",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"ByteWave",
+    "costo_unitario":385.41,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00199",
+    "nombre_oficial":"Tablet ByteWave",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"ByteWave",
+    "costo_unitario":414.6,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00200",
+    "nombre_oficial":"Audífonos ElectroMax SE",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"ElectroMax",
+    "costo_unitario":304.22,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00201",
+    "nombre_oficial":"Audífonos ElectroMax SE",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"ElectroMax",
+    "costo_unitario":320.27,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00202",
+    "nombre_oficial":"Cable NextGen Plus",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"NextGen",
+    "costo_unitario":198.03,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00203",
+    "nombre_oficial":"Laptop NextGen",
+    "categoria_master":"Computacion",
+    "subcategoria":"Laptop",
+    "marca":"NextGen",
+    "costo_unitario":199.9,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00204",
+    "nombre_oficial":"Laptop NextGen",
+    "categoria_master":"Computacion",
+    "subcategoria":"Laptop",
+    "marca":"NextGen",
+    "costo_unitario":202.22,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00205",
+    "nombre_oficial":"Laptop NextGen",
+    "categoria_master":"Computacion",
+    "subcategoria":"Laptop",
+    "marca":"NextGen",
+    "costo_unitario":191.99,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00206",
+    "nombre_oficial":"PC NextGen",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"NextGen",
+    "costo_unitario":374.23,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00207",
+    "nombre_oficial":"PC NextGen",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"NextGen",
+    "costo_unitario":349.61,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00208",
+    "nombre_oficial":"PC NextGen",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"NextGen",
+    "costo_unitario":362.99,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00209",
+    "nombre_oficial":"Tablet HyperLink Lite",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"HyperLink",
+    "costo_unitario":139.12,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00210",
+    "nombre_oficial":"Tablet HyperLink Lite",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"HyperLink",
+    "costo_unitario":149.61,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00211",
+    "nombre_oficial":"Audífonos NovaTech",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"NovaTech",
+    "costo_unitario":123.07,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00212",
+    "nombre_oficial":"Audífonos NovaTech",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"NovaTech",
+    "costo_unitario":119.59,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00213",
+    "nombre_oficial":"Smartphone PixelCore Mini",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartphone",
+    "marca":"PixelCore",
+    "costo_unitario":195.25,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00214",
+    "nombre_oficial":"Smartphone PixelCore Mini",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartphone",
+    "marca":"PixelCore",
+    "costo_unitario":195.02,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00215",
+    "nombre_oficial":"Power Bank NextGen",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"NextGen",
+    "costo_unitario":275.36,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00216",
+    "nombre_oficial":"Audífonos ElectroMax Air",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"ElectroMax",
+    "costo_unitario":308.77,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00217",
+    "nombre_oficial":"Mouse NextGen",
+    "categoria_master":"Computacion",
+    "subcategoria":"Mouse",
+    "marca":"NextGen",
+    "costo_unitario":268.51,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00218",
+    "nombre_oficial":"Mouse NextGen",
+    "categoria_master":"Computacion",
+    "subcategoria":"Mouse",
+    "marca":"NextGen",
+    "costo_unitario":290.32,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00219",
+    "nombre_oficial":"Monitor QuantumGear Air",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"QuantumGear",
+    "costo_unitario":204.1,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00220",
+    "nombre_oficial":"Monitor QuantumGear Air",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"QuantumGear",
+    "costo_unitario":200.03,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00221",
+    "nombre_oficial":"Monitor QuantumGear Air",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"QuantumGear",
+    "costo_unitario":200.66,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00222",
+    "nombre_oficial":"Smartphone ByteWave",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartphone",
+    "marca":"ByteWave",
+    "costo_unitario":81.43,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00223",
+    "nombre_oficial":"Smartphone ByteWave",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartphone",
+    "marca":"ByteWave",
+    "costo_unitario":77.85,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00224",
+    "nombre_oficial":"Smartphone ByteWave",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartphone",
+    "marca":"ByteWave",
+    "costo_unitario":86.5,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00225",
+    "nombre_oficial":"Monitor NovaTech SE",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"NovaTech",
+    "costo_unitario":309.7,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00226",
+    "nombre_oficial":"Smartphone QuantumGear",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartphone",
+    "marca":"QuantumGear",
+    "costo_unitario":193.03,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00227",
+    "nombre_oficial":"Monitor ElectroMax Pro",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"ElectroMax",
+    "costo_unitario":37.83,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00228",
+    "nombre_oficial":"Monitor ElectroMax Pro",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"ElectroMax",
+    "costo_unitario":40.43,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00229",
+    "nombre_oficial":"Monitor ElectroMax Pro",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"ElectroMax",
+    "costo_unitario":37.41,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00230",
+    "nombre_oficial":"Smartphone TechPro",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartphone",
+    "marca":"TechPro",
+    "costo_unitario":275.57,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00231",
+    "nombre_oficial":"Mouse HyperLink SE",
+    "categoria_master":"Computacion",
+    "subcategoria":"Mouse",
+    "marca":"HyperLink",
+    "costo_unitario":123.69,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00232",
+    "nombre_oficial":"Mouse HyperLink SE",
+    "categoria_master":"Computacion",
+    "subcategoria":"Mouse",
+    "marca":"HyperLink",
+    "costo_unitario":121.41,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00233",
+    "nombre_oficial":"Mouse HyperLink SE",
+    "categoria_master":"Computacion",
+    "subcategoria":"Mouse",
+    "marca":"HyperLink",
+    "costo_unitario":137.39,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00234",
+    "nombre_oficial":"Teclado TechPro Pro",
+    "categoria_master":"Computacion",
+    "subcategoria":"Teclado",
+    "marca":"TechPro",
+    "costo_unitario":264.31,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00235",
+    "nombre_oficial":"Teclado TechPro Pro",
+    "categoria_master":"Computacion",
+    "subcategoria":"Teclado",
+    "marca":"TechPro",
+    "costo_unitario":272.65,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00236",
+    "nombre_oficial":"PC TechPro",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"TechPro",
+    "costo_unitario":191.22,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00237",
+    "nombre_oficial":"Mouse ElectroMax",
+    "categoria_master":"Computacion",
+    "subcategoria":"Mouse",
+    "marca":"ElectroMax",
+    "costo_unitario":227.69,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00238",
+    "nombre_oficial":"Mouse ElectroMax",
+    "categoria_master":"Computacion",
+    "subcategoria":"Mouse",
+    "marca":"ElectroMax",
+    "costo_unitario":220.36,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00239",
+    "nombre_oficial":"Parlante NovaTech",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"NovaTech",
+    "costo_unitario":256.46,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00240",
+    "nombre_oficial":"Laptop QuantumGear",
+    "categoria_master":"Computacion",
+    "subcategoria":"Laptop",
+    "marca":"QuantumGear",
+    "costo_unitario":68.36,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00241",
+    "nombre_oficial":"Mouse ByteWave",
+    "categoria_master":"Computacion",
+    "subcategoria":"Mouse",
+    "marca":"ByteWave",
+    "costo_unitario":167.27,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00242",
+    "nombre_oficial":"Mouse ByteWave",
+    "categoria_master":"Computacion",
+    "subcategoria":"Mouse",
+    "marca":"ByteWave",
+    "costo_unitario":167.73,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00243",
+    "nombre_oficial":"Parlante NextGen Lite",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"NextGen",
+    "costo_unitario":283.41,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00244",
+    "nombre_oficial":"Parlante NextGen Lite",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"NextGen",
+    "costo_unitario":276.46,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00245",
+    "nombre_oficial":"Monitor NextGen",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"NextGen",
+    "costo_unitario":285.57,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00246",
+    "nombre_oficial":"Parlante NextGen Plus",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"NextGen",
+    "costo_unitario":290.65,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00247",
+    "nombre_oficial":"Parlante NextGen Plus",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"NextGen",
+    "costo_unitario":258.69,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00248",
+    "nombre_oficial":"Cable QuantumGear Air",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"QuantumGear",
+    "costo_unitario":155.04,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00249",
+    "nombre_oficial":"Cable QuantumGear Air",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"QuantumGear",
+    "costo_unitario":155.9,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00250",
+    "nombre_oficial":"Cable QuantumGear Air",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"QuantumGear",
+    "costo_unitario":171.91,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00251",
+    "nombre_oficial":"Monitor TechPro",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"TechPro",
+    "costo_unitario":270.12,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00252",
+    "nombre_oficial":"Monitor TechPro",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"TechPro",
+    "costo_unitario":282.26,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00253",
+    "nombre_oficial":"Monitor TechPro",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"TechPro",
+    "costo_unitario":278.05,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00254",
+    "nombre_oficial":"Teclado QuantumGear Air",
+    "categoria_master":"Computacion",
+    "subcategoria":"Teclado",
+    "marca":"QuantumGear",
+    "costo_unitario":259.0,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00255",
+    "nombre_oficial":"Teclado QuantumGear Air",
+    "categoria_master":"Computacion",
+    "subcategoria":"Teclado",
+    "marca":"QuantumGear",
+    "costo_unitario":261.94,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00256",
+    "nombre_oficial":"Tablet ElectroMax",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"ElectroMax",
+    "costo_unitario":364.95,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00257",
+    "nombre_oficial":"Tablet ElectroMax",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"ElectroMax",
+    "costo_unitario":407.31,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00258",
+    "nombre_oficial":"Tablet ElectroMax",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"ElectroMax",
+    "costo_unitario":387.98,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00259",
+    "nombre_oficial":"Laptop HyperLink Pro",
+    "categoria_master":"Computacion",
+    "subcategoria":"Laptop",
+    "marca":"HyperLink",
+    "costo_unitario":97.81,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00260",
+    "nombre_oficial":"Laptop HyperLink Pro",
+    "categoria_master":"Computacion",
+    "subcategoria":"Laptop",
+    "marca":"HyperLink",
+    "costo_unitario":97.47,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00261",
+    "nombre_oficial":"Laptop HyperLink Pro",
+    "categoria_master":"Computacion",
+    "subcategoria":"Laptop",
+    "marca":"HyperLink",
+    "costo_unitario":107.76,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00262",
+    "nombre_oficial":"Teclado ElectroMax",
+    "categoria_master":"Computacion",
+    "subcategoria":"Teclado",
+    "marca":"ElectroMax",
+    "costo_unitario":47.11,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00263",
+    "nombre_oficial":"Teclado ElectroMax",
+    "categoria_master":"Computacion",
+    "subcategoria":"Teclado",
+    "marca":"ElectroMax",
+    "costo_unitario":43.77,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00264",
+    "nombre_oficial":"Teclado ElectroMax",
+    "categoria_master":"Computacion",
+    "subcategoria":"Teclado",
+    "marca":"ElectroMax",
+    "costo_unitario":48.59,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00265",
+    "nombre_oficial":"Audífonos ElectroMax Plus",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"ElectroMax",
+    "costo_unitario":329.93,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00266",
+    "nombre_oficial":"Monitor PixelCore Pro",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"PixelCore",
+    "costo_unitario":187.91,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00267",
+    "nombre_oficial":"Monitor PixelCore Pro",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"PixelCore",
+    "costo_unitario":175.5,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00268",
+    "nombre_oficial":"Monitor PixelCore Pro",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"PixelCore",
+    "costo_unitario":171.04,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00269",
+    "nombre_oficial":"Tablet HyperLink Pro",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"HyperLink",
+    "costo_unitario":151.06,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00270",
+    "nombre_oficial":"Tablet HyperLink Pro",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"HyperLink",
+    "costo_unitario":143.72,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00271",
+    "nombre_oficial":"Tablet HyperLink Pro",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"HyperLink",
+    "costo_unitario":141.97,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00272",
+    "nombre_oficial":"Power Bank PixelCore Lite",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"PixelCore",
+    "costo_unitario":256.27,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00273",
+    "nombre_oficial":"Power Bank PixelCore Lite",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"PixelCore",
+    "costo_unitario":230.09,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00274",
+    "nombre_oficial":"Power Bank HyperLink",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"HyperLink",
+    "costo_unitario":189.6,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00275",
+    "nombre_oficial":"Power Bank HyperLink",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"HyperLink",
+    "costo_unitario":200.52,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00276",
+    "nombre_oficial":"Power Bank HyperLink",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"HyperLink",
+    "costo_unitario":189.89,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00277",
+    "nombre_oficial":"Smartphone PixelCore Plus",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartphone",
+    "marca":"PixelCore",
+    "costo_unitario":185.32,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00278",
+    "nombre_oficial":"Parlante HyperLink Pro",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"HyperLink",
+    "costo_unitario":370.37,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00279",
+    "nombre_oficial":"PC PixelCore Lite",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"PixelCore",
+    "costo_unitario":302.81,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00280",
+    "nombre_oficial":"PC PixelCore Lite",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"PixelCore",
+    "costo_unitario":284.99,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00281",
+    "nombre_oficial":"Smartwatch ElectroMax",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartwatch",
+    "marca":"ElectroMax",
+    "costo_unitario":233.91,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00282",
+    "nombre_oficial":"Teclado TechPro SE",
+    "categoria_master":"Computacion",
+    "subcategoria":"Teclado",
+    "marca":"TechPro",
+    "costo_unitario":262.22,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00283",
+    "nombre_oficial":"Cable QuantumGear Lite",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"QuantumGear",
+    "costo_unitario":171.09,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00284",
+    "nombre_oficial":"Cable QuantumGear Lite",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"QuantumGear",
+    "costo_unitario":177.06,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00285",
+    "nombre_oficial":"Cable QuantumGear Lite",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"QuantumGear",
+    "costo_unitario":165.13,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00286",
+    "nombre_oficial":"PC HyperLink",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"HyperLink",
+    "costo_unitario":251.36,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00287",
+    "nombre_oficial":"PC HyperLink",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"HyperLink",
+    "costo_unitario":223.85,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00288",
+    "nombre_oficial":"PC HyperLink",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"HyperLink",
+    "costo_unitario":235.8,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00289",
+    "nombre_oficial":"Power Bank TechPro",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"TechPro",
+    "costo_unitario":325.58,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00290",
+    "nombre_oficial":"Cable ElectroMax",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"ElectroMax",
+    "costo_unitario":251.86,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00291",
+    "nombre_oficial":"Cable ElectroMax",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"ElectroMax",
+    "costo_unitario":248.43,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00292",
+    "nombre_oficial":"Parlante PixelCore",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"PixelCore",
+    "costo_unitario":264.33,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00293",
+    "nombre_oficial":"Parlante PixelCore",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"PixelCore",
+    "costo_unitario":274.68,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00294",
+    "nombre_oficial":"Power Bank PixelCore Max",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"PixelCore",
+    "costo_unitario":248.52,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00295",
+    "nombre_oficial":"Power Bank PixelCore Max",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"PixelCore",
+    "costo_unitario":229.71,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00296",
+    "nombre_oficial":"Power Bank PixelCore Max",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"PixelCore",
+    "costo_unitario":235.57,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00297",
+    "nombre_oficial":"Audífonos ByteWave Pro V1",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"ByteWave",
+    "costo_unitario":183.32,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00298",
+    "nombre_oficial":"Audífonos ElectroMax SE V1",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"ElectroMax",
+    "costo_unitario":326.23,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00299",
+    "nombre_oficial":"Audífonos ElectroMax SE V1",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"ElectroMax",
+    "costo_unitario":323.41,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00300",
+    "nombre_oficial":"Audífonos ElectroMax SE V1",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"ElectroMax",
+    "costo_unitario":333.46,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00301",
+    "nombre_oficial":"Audífonos HyperLink Air V1",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"HyperLink",
+    "costo_unitario":217.71,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00302",
+    "nombre_oficial":"Audífonos HyperLink Air V1",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"HyperLink",
+    "costo_unitario":214.36,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00303",
+    "nombre_oficial":"Audífonos NextGen Pro V1",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"NextGen",
+    "costo_unitario":157.03,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00304",
+    "nombre_oficial":"Audífonos NovaTech Max V1",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"NovaTech",
+    "costo_unitario":134.14,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00305",
+    "nombre_oficial":"Audífonos NovaTech Max V1",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"NovaTech",
+    "costo_unitario":118.38,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00306",
+    "nombre_oficial":"Audífonos NovaTech Max V1",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"NovaTech",
+    "costo_unitario":122.77,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00307",
+    "nombre_oficial":"Audífonos PixelCore Mini V1",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"PixelCore",
+    "costo_unitario":245.86,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00308",
+    "nombre_oficial":"Audífonos PixelCore Mini V1",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"PixelCore",
+    "costo_unitario":243.76,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00309",
+    "nombre_oficial":"Audífonos PixelCore Mini V1",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"PixelCore",
+    "costo_unitario":235.48,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00310",
+    "nombre_oficial":"Audífonos QuantumGear Mini V1",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"QuantumGear",
+    "costo_unitario":211.7,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00311",
+    "nombre_oficial":"Audífonos QuantumGear Mini V1",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"QuantumGear",
+    "costo_unitario":229.3,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00312",
+    "nombre_oficial":"Audífonos TechPro Lite V1",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"TechPro",
+    "costo_unitario":251.31,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00313",
+    "nombre_oficial":"Audífonos TechPro Lite V1",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"TechPro",
+    "costo_unitario":264.73,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00314",
+    "nombre_oficial":"Audífonos TechPro Lite V1",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"TechPro",
+    "costo_unitario":273.78,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00315",
+    "nombre_oficial":"Cable ByteWave Max V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"ByteWave",
+    "costo_unitario":216.6,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00316",
+    "nombre_oficial":"Cable ByteWave Max V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"ByteWave",
+    "costo_unitario":216.69,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00317",
+    "nombre_oficial":"Cable ElectroMax Mini V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"ElectroMax",
+    "costo_unitario":244.4,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00318",
+    "nombre_oficial":"Cable ElectroMax Mini V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"ElectroMax",
+    "costo_unitario":254.26,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00319",
+    "nombre_oficial":"Cable HyperLink Plus V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"HyperLink",
+    "costo_unitario":314.86,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00320",
+    "nombre_oficial":"Cable NextGen Pro V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"NextGen",
+    "costo_unitario":190.75,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00321",
+    "nombre_oficial":"Cable NovaTech Lite V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"NovaTech",
+    "costo_unitario":321.73,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00322",
+    "nombre_oficial":"Cable NovaTech Lite V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"NovaTech",
+    "costo_unitario":340.49,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00323",
+    "nombre_oficial":"Cable NovaTech Lite V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"NovaTech",
+    "costo_unitario":312.64,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00324",
+    "nombre_oficial":"Cable PixelCore SE V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"PixelCore",
+    "costo_unitario":363.31,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00325",
+    "nombre_oficial":"Cable PixelCore SE V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"PixelCore",
+    "costo_unitario":344.21,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00326",
+    "nombre_oficial":"Cable QuantumGear Max V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"QuantumGear",
+    "costo_unitario":166.57,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00327",
+    "nombre_oficial":"Cable QuantumGear Max V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"QuantumGear",
+    "costo_unitario":168.67,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00328",
+    "nombre_oficial":"Cable TechPro Lite V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cable",
+    "marca":"TechPro",
+    "costo_unitario":354.05,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00329",
+    "nombre_oficial":"Cargador ByteWave Mini V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cargador",
+    "marca":"ByteWave",
+    "costo_unitario":444.77,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00330",
+    "nombre_oficial":"Cargador ElectroMax Air V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cargador",
+    "marca":"ElectroMax",
+    "costo_unitario":366.32,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00331",
+    "nombre_oficial":"Cargador ElectroMax Air V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cargador",
+    "marca":"ElectroMax",
+    "costo_unitario":395.38,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00332",
+    "nombre_oficial":"Cargador HyperLink Mini V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cargador",
+    "marca":"HyperLink",
+    "costo_unitario":156.8,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00333",
+    "nombre_oficial":"Cargador NextGen SE V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cargador",
+    "marca":"NextGen",
+    "costo_unitario":119.39,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00334",
+    "nombre_oficial":"Cargador NextGen SE V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cargador",
+    "marca":"NextGen",
+    "costo_unitario":128.2,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00335",
+    "nombre_oficial":"Cargador NextGen SE V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cargador",
+    "marca":"NextGen",
+    "costo_unitario":117.96,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00336",
+    "nombre_oficial":"Cargador NovaTech SE V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cargador",
+    "marca":"NovaTech",
+    "costo_unitario":265.31,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00337",
+    "nombre_oficial":"Cargador NovaTech SE V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cargador",
+    "marca":"NovaTech",
+    "costo_unitario":253.37,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00338",
+    "nombre_oficial":"Cargador PixelCore SE V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cargador",
+    "marca":"PixelCore",
+    "costo_unitario":384.45,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00339",
+    "nombre_oficial":"Cargador QuantumGear SE V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cargador",
+    "marca":"QuantumGear",
+    "costo_unitario":330.97,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00340",
+    "nombre_oficial":"Cargador QuantumGear SE V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cargador",
+    "marca":"QuantumGear",
+    "costo_unitario":339.49,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00341",
+    "nombre_oficial":"Cargador QuantumGear SE V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cargador",
+    "marca":"QuantumGear",
+    "costo_unitario":324.6,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00342",
+    "nombre_oficial":"Cargador TechPro SE V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cargador",
+    "marca":"TechPro",
+    "costo_unitario":173.07,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00343",
+    "nombre_oficial":"Cargador TechPro SE V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Cargador",
+    "marca":"TechPro",
+    "costo_unitario":166.44,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00344",
+    "nombre_oficial":"Laptop ByteWave Plus V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Laptop",
+    "marca":"ByteWave",
+    "costo_unitario":228.2,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00345",
+    "nombre_oficial":"Laptop ByteWave Plus V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Laptop",
+    "marca":"ByteWave",
+    "costo_unitario":214.87,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00346",
+    "nombre_oficial":"Laptop ByteWave Plus V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Laptop",
+    "marca":"ByteWave",
+    "costo_unitario":239.1,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00347",
+    "nombre_oficial":"Laptop ElectroMax Pro V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Laptop",
+    "marca":"ElectroMax",
+    "costo_unitario":112.05,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00348",
+    "nombre_oficial":"Laptop ElectroMax Pro V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Laptop",
+    "marca":"ElectroMax",
+    "costo_unitario":115.49,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00349",
+    "nombre_oficial":"Laptop ElectroMax Pro V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Laptop",
+    "marca":"ElectroMax",
+    "costo_unitario":121.1,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00350",
+    "nombre_oficial":"Laptop HyperLink Max V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Laptop",
+    "marca":"HyperLink",
+    "costo_unitario":104.7,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00351",
+    "nombre_oficial":"Laptop HyperLink Max V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Laptop",
+    "marca":"HyperLink",
+    "costo_unitario":99.0,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00352",
+    "nombre_oficial":"Laptop NextGen Lite V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Laptop",
+    "marca":"NextGen",
+    "costo_unitario":190.31,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00353",
+    "nombre_oficial":"Laptop NextGen Lite V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Laptop",
+    "marca":"NextGen",
+    "costo_unitario":180.8,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00354",
+    "nombre_oficial":"Laptop NextGen Lite V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Laptop",
+    "marca":"NextGen",
+    "costo_unitario":205.08,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00355",
+    "nombre_oficial":"Laptop NovaTech SE V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Laptop",
+    "marca":"NovaTech",
+    "costo_unitario":329.25,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00356",
+    "nombre_oficial":"Laptop PixelCore Pro V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Laptop",
+    "marca":"PixelCore",
+    "costo_unitario":247.98,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00357",
+    "nombre_oficial":"Laptop QuantumGear Mini V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Laptop",
+    "marca":"QuantumGear",
+    "costo_unitario":70.93,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00358",
+    "nombre_oficial":"Laptop TechPro Pro V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Laptop",
+    "marca":"TechPro",
+    "costo_unitario":143.5,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00359",
+    "nombre_oficial":"Laptop TechPro Pro V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Laptop",
+    "marca":"TechPro",
+    "costo_unitario":153.08,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00360",
+    "nombre_oficial":"Laptop TechPro Pro V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Laptop",
+    "marca":"TechPro",
+    "costo_unitario":150.17,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00361",
+    "nombre_oficial":"Monitor ByteWave SE V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"ByteWave",
+    "costo_unitario":264.87,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00362",
+    "nombre_oficial":"Monitor ElectroMax Air V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"ElectroMax",
+    "costo_unitario":38.34,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00363",
+    "nombre_oficial":"Monitor ElectroMax Air V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"ElectroMax",
+    "costo_unitario":35.72,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00364",
+    "nombre_oficial":"Monitor ElectroMax Air V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"ElectroMax",
+    "costo_unitario":38.0,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00365",
+    "nombre_oficial":"Monitor HyperLink Lite V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"HyperLink",
+    "costo_unitario":98.2,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00366",
+    "nombre_oficial":"Monitor NextGen SE V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"NextGen",
+    "costo_unitario":311.72,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00367",
+    "nombre_oficial":"Monitor NextGen SE V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"NextGen",
+    "costo_unitario":296.44,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00368",
+    "nombre_oficial":"Monitor NovaTech Pro V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"NovaTech",
+    "costo_unitario":306.55,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00369",
+    "nombre_oficial":"Monitor NovaTech Pro V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"NovaTech",
+    "costo_unitario":318.71,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00370",
+    "nombre_oficial":"Monitor NovaTech Pro V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"NovaTech",
+    "costo_unitario":329.93,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00371",
+    "nombre_oficial":"Monitor PixelCore Mini V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"PixelCore",
+    "costo_unitario":174.27,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00372",
+    "nombre_oficial":"Monitor PixelCore Mini V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"PixelCore",
+    "costo_unitario":168.62,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00373",
+    "nombre_oficial":"Monitor PixelCore Mini V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"PixelCore",
+    "costo_unitario":169.28,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00374",
+    "nombre_oficial":"Monitor QuantumGear Pro V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"QuantumGear",
+    "costo_unitario":210.75,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00375",
+    "nombre_oficial":"Monitor TechPro SE V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"TechPro",
+    "costo_unitario":282.34,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00376",
+    "nombre_oficial":"Monitor TechPro SE V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Monitor",
+    "marca":"TechPro",
+    "costo_unitario":277.53,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00377",
+    "nombre_oficial":"Mouse ByteWave Max V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Mouse",
+    "marca":"ByteWave",
+    "costo_unitario":177.14,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00378",
+    "nombre_oficial":"Mouse ElectroMax Pro V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Mouse",
+    "marca":"ElectroMax",
+    "costo_unitario":239.95,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00379",
+    "nombre_oficial":"Mouse HyperLink Max V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Mouse",
+    "marca":"HyperLink",
+    "costo_unitario":125.45,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00380",
+    "nombre_oficial":"Mouse HyperLink Max V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Mouse",
+    "marca":"HyperLink",
+    "costo_unitario":131.06,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00381",
+    "nombre_oficial":"Mouse NextGen SE V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Mouse",
+    "marca":"NextGen",
+    "costo_unitario":261.19,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00382",
+    "nombre_oficial":"Mouse NextGen SE V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Mouse",
+    "marca":"NextGen",
+    "costo_unitario":275.03,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00383",
+    "nombre_oficial":"Mouse NovaTech Pro V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Mouse",
+    "marca":"NovaTech",
+    "costo_unitario":133.32,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00384",
+    "nombre_oficial":"Mouse PixelCore Mini V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Mouse",
+    "marca":"PixelCore",
+    "costo_unitario":322.54,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00385",
+    "nombre_oficial":"Mouse PixelCore Mini V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Mouse",
+    "marca":"PixelCore",
+    "costo_unitario":328.36,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00386",
+    "nombre_oficial":"Mouse QuantumGear Plus V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Mouse",
+    "marca":"QuantumGear",
+    "costo_unitario":343.35,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00387",
+    "nombre_oficial":"Mouse TechPro Plus V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Mouse",
+    "marca":"TechPro",
+    "costo_unitario":139.14,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00388",
+    "nombre_oficial":"Mouse TechPro Plus V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Mouse",
+    "marca":"TechPro",
+    "costo_unitario":144.75,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00389",
+    "nombre_oficial":"Mouse TechPro Plus V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Mouse",
+    "marca":"TechPro",
+    "costo_unitario":135.73,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00390",
+    "nombre_oficial":"PC ByteWave Max V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"ByteWave",
+    "costo_unitario":311.78,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00391",
+    "nombre_oficial":"PC ElectroMax SE V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"ElectroMax",
+    "costo_unitario":311.48,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00392",
+    "nombre_oficial":"PC ElectroMax SE V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"ElectroMax",
+    "costo_unitario":329.49,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00393",
+    "nombre_oficial":"PC ElectroMax SE V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"ElectroMax",
+    "costo_unitario":303.14,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00394",
+    "nombre_oficial":"PC HyperLink Max V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"HyperLink",
+    "costo_unitario":232.07,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00395",
+    "nombre_oficial":"PC NextGen SE V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"NextGen",
+    "costo_unitario":348.89,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00396",
+    "nombre_oficial":"PC NextGen SE V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"NextGen",
+    "costo_unitario":377.21,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00397",
+    "nombre_oficial":"PC NovaTech SE V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"NovaTech",
+    "costo_unitario":222.46,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00398",
+    "nombre_oficial":"PC NovaTech SE V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"NovaTech",
+    "costo_unitario":214.07,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00399",
+    "nombre_oficial":"PC NovaTech SE V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"NovaTech",
+    "costo_unitario":230.18,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00400",
+    "nombre_oficial":"PC PixelCore Plus V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"PixelCore",
+    "costo_unitario":280.67,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00401",
+    "nombre_oficial":"PC PixelCore Plus V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"PixelCore",
+    "costo_unitario":292.7,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00402",
+    "nombre_oficial":"PC QuantumGear Mini V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"QuantumGear",
+    "costo_unitario":247.35,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00403",
+    "nombre_oficial":"PC QuantumGear Mini V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"QuantumGear",
+    "costo_unitario":246.23,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00404",
+    "nombre_oficial":"PC QuantumGear Mini V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"QuantumGear",
+    "costo_unitario":233.93,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00405",
+    "nombre_oficial":"PC TechPro Mini V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"TechPro",
+    "costo_unitario":180.31,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00406",
+    "nombre_oficial":"PC TechPro Mini V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"TechPro",
+    "costo_unitario":197.66,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00407",
+    "nombre_oficial":"PC TechPro Mini V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"PC",
+    "marca":"TechPro",
+    "costo_unitario":193.12,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00408",
+    "nombre_oficial":"Parlante ByteWave Pro V1",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"ByteWave",
+    "costo_unitario":241.66,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00409",
+    "nombre_oficial":"Parlante ElectroMax Max V1",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"ElectroMax",
+    "costo_unitario":327.87,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00410",
+    "nombre_oficial":"Parlante HyperLink Mini V1",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"HyperLink",
+    "costo_unitario":353.84,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00411",
+    "nombre_oficial":"Parlante NextGen Air V1",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"NextGen",
+    "costo_unitario":274.31,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00412",
+    "nombre_oficial":"Parlante NovaTech Lite V1",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"NovaTech",
+    "costo_unitario":258.6,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00413",
+    "nombre_oficial":"Parlante NovaTech Lite V1",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"NovaTech",
+    "costo_unitario":264.84,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00414",
+    "nombre_oficial":"Parlante PixelCore Pro V1",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"PixelCore",
+    "costo_unitario":276.42,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00415",
+    "nombre_oficial":"Parlante QuantumGear Pro V1",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"QuantumGear",
+    "costo_unitario":201.91,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00416",
+    "nombre_oficial":"Parlante TechPro Plus V1",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"TechPro",
+    "costo_unitario":346.07,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00417",
+    "nombre_oficial":"Parlante TechPro Plus V1",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"TechPro",
+    "costo_unitario":377.61,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00418",
+    "nombre_oficial":"Parlante TechPro Plus V1",
+    "categoria_master":"Sonido",
+    "subcategoria":"Parlante",
+    "marca":"TechPro",
+    "costo_unitario":377.86,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00419",
+    "nombre_oficial":"Power Bank ByteWave Max V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"ByteWave",
+    "costo_unitario":274.51,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00420",
+    "nombre_oficial":"Power Bank ByteWave Max V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"ByteWave",
+    "costo_unitario":274.53,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00421",
+    "nombre_oficial":"Power Bank ElectroMax Air V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"ElectroMax",
+    "costo_unitario":273.71,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00422",
+    "nombre_oficial":"Power Bank ElectroMax Air V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"ElectroMax",
+    "costo_unitario":297.08,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00423",
+    "nombre_oficial":"Power Bank HyperLink Mini V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"HyperLink",
+    "costo_unitario":188.66,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00424",
+    "nombre_oficial":"Power Bank HyperLink Mini V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"HyperLink",
+    "costo_unitario":200.12,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00425",
+    "nombre_oficial":"Power Bank HyperLink Mini V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"HyperLink",
+    "costo_unitario":194.58,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00426",
+    "nombre_oficial":"Power Bank NextGen Mini V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"NextGen",
+    "costo_unitario":292.28,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00427",
+    "nombre_oficial":"Power Bank NextGen Mini V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"NextGen",
+    "costo_unitario":312.11,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00428",
+    "nombre_oficial":"Power Bank NextGen Mini V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"NextGen",
+    "costo_unitario":285.58,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00429",
+    "nombre_oficial":"Power Bank NovaTech SE V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"NovaTech",
+    "costo_unitario":390.2,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00430",
+    "nombre_oficial":"Power Bank PixelCore Pro V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"PixelCore",
+    "costo_unitario":243.43,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00431",
+    "nombre_oficial":"Power Bank PixelCore Pro V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"PixelCore",
+    "costo_unitario":237.35,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00432",
+    "nombre_oficial":"Power Bank QuantumGear Max V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"QuantumGear",
+    "costo_unitario":288.06,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00433",
+    "nombre_oficial":"Power Bank TechPro Max V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"TechPro",
+    "costo_unitario":333.28,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00434",
+    "nombre_oficial":"Power Bank TechPro Max V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"TechPro",
+    "costo_unitario":357.83,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00435",
+    "nombre_oficial":"Power Bank TechPro Max V1",
+    "categoria_master":"Accesorios",
+    "subcategoria":"Power Bank",
+    "marca":"TechPro",
+    "costo_unitario":343.53,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00436",
+    "nombre_oficial":"Smartphone ByteWave Max V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartphone",
+    "marca":"ByteWave",
+    "costo_unitario":86.1,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00437",
+    "nombre_oficial":"Smartphone ElectroMax SE V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartphone",
+    "marca":"ElectroMax",
+    "costo_unitario":345.75,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00438",
+    "nombre_oficial":"Smartphone ElectroMax SE V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartphone",
+    "marca":"ElectroMax",
+    "costo_unitario":318.21,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00439",
+    "nombre_oficial":"Smartphone HyperLink Plus V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartphone",
+    "marca":"HyperLink",
+    "costo_unitario":309.6,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00440",
+    "nombre_oficial":"Smartphone NextGen Mini V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartphone",
+    "marca":"NextGen",
+    "costo_unitario":331.27,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00441",
+    "nombre_oficial":"Smartphone NextGen Mini V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartphone",
+    "marca":"NextGen",
+    "costo_unitario":365.88,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00442",
+    "nombre_oficial":"Smartphone NovaTech Max V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartphone",
+    "marca":"NovaTech",
+    "costo_unitario":325.9,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00443",
+    "nombre_oficial":"Smartphone PixelCore Air V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartphone",
+    "marca":"PixelCore",
+    "costo_unitario":193.12,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00444",
+    "nombre_oficial":"Smartphone QuantumGear Air V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartphone",
+    "marca":"QuantumGear",
+    "costo_unitario":179.5,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00445",
+    "nombre_oficial":"Smartphone QuantumGear Air V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartphone",
+    "marca":"QuantumGear",
+    "costo_unitario":200.34,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00446",
+    "nombre_oficial":"Smartphone TechPro SE V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartphone",
+    "marca":"TechPro",
+    "costo_unitario":261.31,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00447",
+    "nombre_oficial":"Smartphone TechPro SE V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartphone",
+    "marca":"TechPro",
+    "costo_unitario":271.92,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00448",
+    "nombre_oficial":"Smartwatch ByteWave Plus V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartwatch",
+    "marca":"ByteWave",
+    "costo_unitario":144.56,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00449",
+    "nombre_oficial":"Smartwatch ByteWave Plus V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartwatch",
+    "marca":"ByteWave",
+    "costo_unitario":139.54,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00450",
+    "nombre_oficial":"Smartwatch ElectroMax SE V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartwatch",
+    "marca":"ElectroMax",
+    "costo_unitario":233.69,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00451",
+    "nombre_oficial":"Smartwatch HyperLink Lite V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartwatch",
+    "marca":"HyperLink",
+    "costo_unitario":241.59,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00452",
+    "nombre_oficial":"Smartwatch NextGen Pro V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartwatch",
+    "marca":"NextGen",
+    "costo_unitario":420.87,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00453",
+    "nombre_oficial":"Smartwatch NovaTech Mini V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartwatch",
+    "marca":"NovaTech",
+    "costo_unitario":305.47,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00454",
+    "nombre_oficial":"Smartwatch NovaTech Mini V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartwatch",
+    "marca":"NovaTech",
+    "costo_unitario":306.15,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00455",
+    "nombre_oficial":"Smartwatch NovaTech Mini V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartwatch",
+    "marca":"NovaTech",
+    "costo_unitario":297.7,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00456",
+    "nombre_oficial":"Smartwatch PixelCore SE V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartwatch",
+    "marca":"PixelCore",
+    "costo_unitario":473.95,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00457",
+    "nombre_oficial":"Smartwatch QuantumGear SE V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartwatch",
+    "marca":"QuantumGear",
+    "costo_unitario":180.89,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00458",
+    "nombre_oficial":"Smartwatch QuantumGear SE V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartwatch",
+    "marca":"QuantumGear",
+    "costo_unitario":177.65,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00459",
+    "nombre_oficial":"Smartwatch TechPro Mini V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartwatch",
+    "marca":"TechPro",
+    "costo_unitario":180.51,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00460",
+    "nombre_oficial":"Smartwatch TechPro Mini V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Smartwatch",
+    "marca":"TechPro",
+    "costo_unitario":200.16,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00461",
+    "nombre_oficial":"Tablet ByteWave Pro V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"ByteWave",
+    "costo_unitario":385.71,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00462",
+    "nombre_oficial":"Tablet ByteWave Pro V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"ByteWave",
+    "costo_unitario":419.49,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00463",
+    "nombre_oficial":"Tablet ElectroMax Lite V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"ElectroMax",
+    "costo_unitario":392.95,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00464",
+    "nombre_oficial":"Tablet HyperLink Air V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"HyperLink",
+    "costo_unitario":141.02,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00465",
+    "nombre_oficial":"Tablet HyperLink Air V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"HyperLink",
+    "costo_unitario":145.89,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00466",
+    "nombre_oficial":"Tablet NextGen Air V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"NextGen",
+    "costo_unitario":340.59,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00467",
+    "nombre_oficial":"Tablet NextGen Air V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"NextGen",
+    "costo_unitario":360.39,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00468",
+    "nombre_oficial":"Tablet NovaTech Plus V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"NovaTech",
+    "costo_unitario":281.73,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00469",
+    "nombre_oficial":"Tablet NovaTech Plus V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"NovaTech",
+    "costo_unitario":286.27,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00470",
+    "nombre_oficial":"Tablet NovaTech Plus V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"NovaTech",
+    "costo_unitario":270.83,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00471",
+    "nombre_oficial":"Tablet PixelCore SE V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"PixelCore",
+    "costo_unitario":375.94,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00472",
+    "nombre_oficial":"Tablet PixelCore SE V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"PixelCore",
+    "costo_unitario":375.8,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00473",
+    "nombre_oficial":"Tablet PixelCore SE V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"PixelCore",
+    "costo_unitario":377.08,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00474",
+    "nombre_oficial":"Tablet QuantumGear Pro V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"QuantumGear",
+    "costo_unitario":243.34,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00475",
+    "nombre_oficial":"Tablet QuantumGear Pro V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"QuantumGear",
+    "costo_unitario":246.31,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00476",
+    "nombre_oficial":"Tablet TechPro Plus V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"TechPro",
+    "costo_unitario":197.65,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00477",
+    "nombre_oficial":"Tablet TechPro Plus V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"TechPro",
+    "costo_unitario":186.42,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00478",
+    "nombre_oficial":"Tablet TechPro Plus V1",
+    "categoria_master":"Tablets y celular",
+    "subcategoria":"Tablet",
+    "marca":"TechPro",
+    "costo_unitario":177.33,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00479",
+    "nombre_oficial":"Teclado ByteWave Air V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Teclado",
+    "marca":"ByteWave",
+    "costo_unitario":88.46,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00480",
+    "nombre_oficial":"Teclado ByteWave Air V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Teclado",
+    "marca":"ByteWave",
+    "costo_unitario":95.36,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00481",
+    "nombre_oficial":"Teclado ByteWave Air V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Teclado",
+    "marca":"ByteWave",
+    "costo_unitario":89.45,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00482",
+    "nombre_oficial":"Teclado ElectroMax Plus V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Teclado",
+    "marca":"ElectroMax",
+    "costo_unitario":46.52,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00483",
+    "nombre_oficial":"Teclado ElectroMax Plus V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Teclado",
+    "marca":"ElectroMax",
+    "costo_unitario":49.66,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00484",
+    "nombre_oficial":"Teclado NextGen Plus V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Teclado",
+    "marca":"NextGen",
+    "costo_unitario":188.52,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00485",
+    "nombre_oficial":"Teclado NovaTech Lite V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Teclado",
+    "marca":"NovaTech",
+    "costo_unitario":256.79,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00486",
+    "nombre_oficial":"Teclado PixelCore Lite V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Teclado",
+    "marca":"PixelCore",
+    "costo_unitario":332.8,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00487",
+    "nombre_oficial":"Teclado PixelCore Lite V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Teclado",
+    "marca":"PixelCore",
+    "costo_unitario":320.99,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00488",
+    "nombre_oficial":"Teclado QuantumGear Plus V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Teclado",
+    "marca":"QuantumGear",
+    "costo_unitario":277.73,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00489",
+    "nombre_oficial":"Teclado TechPro Max V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Teclado",
+    "marca":"TechPro",
+    "costo_unitario":250.25,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00490",
+    "nombre_oficial":"Teclado TechPro Max V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Teclado",
+    "marca":"TechPro",
+    "costo_unitario":276.91,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00491",
+    "nombre_oficial":"Teclado TechPro Max V1",
+    "categoria_master":"Computacion",
+    "subcategoria":"Teclado",
+    "marca":"TechPro",
+    "costo_unitario":267.75,
+    "proveedor":"Distribuidora Digital"
+  },
+  {
+    "sku_master":"SKU00492",
+    "nombre_oficial":"Audífonos ByteWave Mini V2",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"ByteWave",
+    "costo_unitario":185.73,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00493",
+    "nombre_oficial":"Audífonos ByteWave Mini V2",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"ByteWave",
+    "costo_unitario":176.53,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00494",
+    "nombre_oficial":"Audífonos ElectroMax Air V2",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"ElectroMax",
+    "costo_unitario":336.47,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00495",
+    "nombre_oficial":"Audífonos HyperLink Air V2",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"HyperLink",
+    "costo_unitario":220.53,
+    "proveedor":"Tech Supply Hub"
+  },
+  {
+    "sku_master":"SKU00496",
+    "nombre_oficial":"Audífonos NextGen Lite V2",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"NextGen",
+    "costo_unitario":155.78,
+    "proveedor":"Proveedor Andes"
+  },
+  {
+    "sku_master":"SKU00497",
+    "nombre_oficial":"Audífonos NextGen Lite V2",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"NextGen",
+    "costo_unitario":174.54,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00498",
+    "nombre_oficial":"Audífonos NextGen Lite V2",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"NextGen",
+    "costo_unitario":164.31,
+    "proveedor":"Importadora Tech"
+  },
+  {
+    "sku_master":"SKU00499",
+    "nombre_oficial":"Audífonos NovaTech Max V2",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"NovaTech",
+    "costo_unitario":131.09,
+    "proveedor":"Global Electronics"
+  },
+  {
+    "sku_master":"SKU00500",
+    "nombre_oficial":"Audífonos NovaTech Max V2",
+    "categoria_master":"Sonido",
+    "subcategoria":"Audífonos",
+    "marca":"NovaTech",
+    "costo_unitario":123.92,
+    "proveedor":"Importadora Tech"
+  }
+]
